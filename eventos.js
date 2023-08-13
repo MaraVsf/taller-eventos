@@ -3,5 +3,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
     soyDiv.addEventListener("click", () => {
         alert('Hola! Soy el div');
-});
+    });
 });
